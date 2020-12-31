@@ -20,7 +20,10 @@ title                    : "Welcome to Data Atelier 90"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park Jae Yun"
-description              : "Data Analytics | Machine Learning | Visualization | Digital"
+description              : "Data Analytics  
+                            Machine Learning  
+                            Visualization  
+                            Digital  "
 url                      : "https://Jeroi90.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jeroi90/Jeroi90.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +98,10 @@ analytics:
 author:
   name             : "JaeYun Park"
   avatar           : /assets/image/logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " Data Analytics | Machine Learning | Visualization | Digital "
+  bio              : " Data Analytics  
+                      Machine Learning  
+                      Visualization  
+                      Digital  "
   location         : "Seoul, Korea"
   email            : jeroi.dev90@gmail.com
   links:
