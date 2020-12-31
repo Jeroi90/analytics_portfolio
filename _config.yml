@@ -20,10 +20,10 @@ title                    : "Welcome to Data Atelier 90"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park Jae Yun"
-description              : "Data Analytics  
-                            Machine Learning  
-                            Visualization  
-                            Digital  "
+description              : " - Data Analytics  
+                             - Machine Learning  
+                             - Visualization  
+                             - Digital  "
 url                      : "https://Jeroi90.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jeroi90/Jeroi90.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -123,6 +123,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+# Header
+header:
+  image: /assets/images/old-atelier-tools-carpenter.jpg
+
 
 # Site Footer
 footer:
