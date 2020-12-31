@@ -1,7 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "2020-12-31 first github post commit"
+date: 2020-12-31 09:20:00 -0400
+categories: Notice
 ---
 
-## 처음 올리는 test post 
+### github에서 포트폴리오 작성 시작 
+#### markdown 문법 공부를 해서 익숙해져야겠다.
+
