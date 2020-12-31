@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Atelier"
+title                    : "Welcome to Data Atelier 90"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park Jae Yun"
-description              : "Archive the history of studying Data analytics / Machine learning / Digital"
+description              : "Data Analytics | Machine Learning | Visualization | Digital"
 url                      : "https://Jeroi90.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "https://drive.google.com/file/d/1S-S3V2GqRwSHsst4vpCxzklqxO6qPG95/view?usp=sharing" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://drive.google.com/file/d/19Z5NtOj0UvUmxyNqQWeyJ_jc7DOLXSqS/view?usp=sharing" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Jerome90's Study archive" # overrides the website title displayed in the masthead, use " " for no title
+repository               : "Jeroi90/Jeroi90.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/Users/anatman/dev/githubio/daport/image/old-atelier-tools-carpenter.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/Users/anatman/dev/githubio/daport/logo/HatchfulExport-All/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Data Atelier 90" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
