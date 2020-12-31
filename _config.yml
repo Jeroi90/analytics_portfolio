@@ -24,9 +24,9 @@ description              : "Data Analytics | Machine Learning | Visualization | 
 url                      : "https://Jeroi90.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jeroi90/Jeroi90.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/Users/anatman/dev/githubio/daport/image/old-atelier-tools-carpenter.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/Users/anatman/dev/githubio/daport/logo/HatchfulExport-All/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Data Atelier 90" # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : /Users/anatman/dev/githubio/daport/image/old-atelier-tools-carpenter.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /Users/anatman/dev/githubio/daport/logo/HatchfulExport-All/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "||| Data Atelier 90 |||" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
