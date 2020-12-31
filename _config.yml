@@ -98,10 +98,10 @@ analytics:
 author:
   name             : "JaeYun Park"
   avatar           : /assets/image/logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analytics  
-                      Machine Learning  
-                      Visualization  
-                      Digital  "
+  bio              : " - Data Analytics  
+                       - Machine Learning  
+                       - Visualization  
+                       - Digital  "
   location         : "Seoul, Korea"
   email            : jeroi.dev90@gmail.com
   links:
