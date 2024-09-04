@@ -1,4 +1,3 @@
-# Jerome90 Data analytics study archive
+# Justin Park Data analytics Portfolio
 ##  # Data analytics # Machine learning # Data visualization
-### Author : Jerome90 
 
